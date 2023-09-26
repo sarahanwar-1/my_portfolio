@@ -15,13 +15,13 @@ body {
   height: 5mm;
  }
 
- #skilll{
+ /* #skilll{
   color: white;
-  /* Add the styles here */
+   Add the styles here 
   font-weight:bolder;
   text-decoration:underline;
   
- }
+ } */
 .topmenu {
   color: lightgray;
   margin: 10px;
